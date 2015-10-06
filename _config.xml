@@ -1,0 +1,17 @@
+permalink:           pretty
+relative_permalinks: false
+
+title:               tpsc
+tagline:             tpsc
+url:                 https://tpsc.mie.do
+paginate:            121
+baseurl:             "https://tpsc.mie.do/"
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+author:
+  name:              mie.do
+  url:               https://mie.do
+  email:             contacto@creepypastas.com
